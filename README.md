@@ -1,7 +1,7 @@
 
 # Movie Search App
 
-A Movie App built using Next.js and [The Movie Database (TMDB v3)](https://www.themoviedb.org/) API.
+A Movie App built using Next.js and [The Movie Database (OMDB)](https://www.themoviedb.org/) API.
 Explore movies, tv shows. Personalize watchlist and favorites.
 
 ![Moviapp home](https://i.imgur.com/JUpX5h9.png)
