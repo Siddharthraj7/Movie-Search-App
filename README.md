@@ -7,7 +7,6 @@ Explore movies, tv shows. Personalize watchlist and favorites.
 ![Moviapp home](https://i.imgur.com/JUpX5h9.png)
 ![Moviapp home scrolled](https://i.imgur.com/pkEDZrn.png)
 ![Moviapp details page](https://i.imgur.com/4udpu6u.png)
-![Moviapp profile page](https://i.imgur.com/CajiVXr.png)
 
 ## Demo
 
